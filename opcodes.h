@@ -1,0 +1,11 @@
+#pragma once
+
+#define LUI_OP 0b0110111
+#define AUIPC_OP 0b0010111
+#define JAL_OP 0b1101111
+#define JALR_OP 0b1100111
+#define BRANCH_OP 0b1100011
+#define LOAD_OP 0b0000011
+#define STORE_OP 0b0100011
+#define REGIMM_OP 0b0010011
+#define REGREG_OP 0b0110011
